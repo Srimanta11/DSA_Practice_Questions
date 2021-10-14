@@ -13,6 +13,7 @@
 - Provide Correct Solutions, it be will `cross checked` against the time complexity and accuracy before merging the PRs
 - Answer should be written in `Java`, `C`, `C++`, `Python`
 - No other programming language will be considered
+- __Don't fotget to fetch latest the upstream commits before generating PRs__
 
 ## License
 - Distributed under the MIT License. See `LICENSE` for more information.
