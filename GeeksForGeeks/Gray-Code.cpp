@@ -2,7 +2,7 @@
 //Question Link - https://practice.geeksforgeeks.org/problems/gray-code-1611215248/1/?category[]=Recursion&category[]=Recursion&difficulty[]=1&page=1&query=category[]Recursiondifficulty[]1page1category[]Recursion#
 
 
-#include<iostream>
+#include<bits/stdc++.h>
 using namespace std;
 
 class Solution
