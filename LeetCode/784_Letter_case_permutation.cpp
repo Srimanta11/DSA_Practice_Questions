@@ -1,5 +1,3 @@
-//Question Link - https://leetcode.com/problems/letter-case-permutation/
-
 class Solution {
 public:
     vector<string> result;
