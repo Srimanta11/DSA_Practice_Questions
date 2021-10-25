@@ -1,4 +1,4 @@
-// https://codeforces.com/contest/1598/problem/A
+# https://codeforces.com/contest/1598/problem/A
 
 t = int(input())
 for i in range(t):
